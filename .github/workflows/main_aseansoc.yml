@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'aseansoc'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7224b23a16bc4a4db8aa4969cec4905f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_29edd6ecd7e54a808aa9712e3513387c }}
         package: .
